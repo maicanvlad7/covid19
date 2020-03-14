@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Barlow:400,700&display=swap);.text-center {
+  text-align: center;
+}
+
+.site-section h2 {
+  margin-top: 5vh !important;
+  margin-bottom: 5vh !important;
+}
+
+.global {
+  margin-top: -2vh;
+}
+
+.symptoms h4 {
+  margin-top: 4vh;
+  margin-bottom: 4vh;
+}
+
+.symptoms p {
+  font-size: 20px;
+  color: black;
+}
+
+.symptoms img {
+  margin-right: 5px;
+}
+
